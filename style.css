@@ -26,10 +26,6 @@ body {
     background-color: #ffeae6;
 }
 
-.carousel-item {
-    height: 550px;
-}
-
 .text-colored {
     color: #e15f41;
 }
@@ -61,4 +57,9 @@ body {
     .carousel-item img {
         height: 280px;
     }
+
+    .navbar-brand:hover,
+.nav-cardapio .nav-link:hover {
+    color: #fff;
+}
 }
